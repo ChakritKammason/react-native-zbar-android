@@ -1,6 +1,6 @@
 {
   "name": "react-native-zbar-android",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "zbar for react native",
   "dependencies": {},
   "devDependencies": {},
