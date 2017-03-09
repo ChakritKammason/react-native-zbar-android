@@ -6,7 +6,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Vasiliev90/react-native-zbar-android.git"
+    "url": "git+https://github.com/ElekenAgency/react-native-zbar-android.git"
   },
   "keywords": [
     "zbar",
